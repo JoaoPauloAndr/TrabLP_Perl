@@ -2,6 +2,7 @@
 Instruções para rodar o trabalho
 
 Primeiramente, baixar e instalar Perl usando o seguinte comando no terminal:
+
 curl -L http://xrl.us/installperlnix | bash (Ubuntu)
 
 curl -L http://xrl.us/installperlosx | bash (macOS)
